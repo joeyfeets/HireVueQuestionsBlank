@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "4QGYy8EasRGHUVlESGIdVB0FNpLS/ODssgB8YyToFJ8CXf1M7HakXmSoU0AnhybGbviTh7zZe1jptIFgrWS0cQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sharpjo2\\source\\repos\\HireVueQuestionsBlank\\ApptOverlap\\ApptOverlap.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sharpjo2\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\sharpjo2\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\sharpjo2\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\sharpjo2\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
